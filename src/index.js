@@ -1,2 +1,2 @@
-export * from './BlocksHtml';
-export * from './BlocksImage';
+export * from './components/BlocksHtml';
+export * from './components/BlocksImage';
